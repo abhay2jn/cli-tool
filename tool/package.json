@@ -1,0 +1,19 @@
+{
+  "name": "tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "better-ajv-errors": "^1.2.0",
+    "cosmiconfig": "^9.0.0"
+  }
+}
